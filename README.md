@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ElAdamTheGreat
-- 👀 I’m interested in... coding, duh.
-- 🌱 I’m currently learning drizzle.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me? Please don't. If you must, use my discord - eladamthegreat.
-- ⚡ Not so funny fact: War Thunder top tier is fun (sometimes)
+Van Violet / ElAdamTheGreat
+Take a look at my cool projects at https://www.geltro.tech/
+Passionate urbanist and gamer
 
 <!---
 ElAdamTheGreat/ElAdamTheGreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
