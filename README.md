@@ -1,5 +1,7 @@
 Van Violet / ElAdamTheGreat
-Take a look at my cool projects at https://www.geltro.tech/
+
+Take a look at one of my cool projectss at https://www.geltro.tech/
+
 Passionate urbanist and gamer
 
 <!---
